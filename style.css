@@ -1,0 +1,45 @@
+body{
+    align-items: center;
+    padding-left: 38%;
+    padding-top: 100px;
+    background-color: rgba(121, 175, 182, 0.329);
+}
+#display{
+    box-shadow: 10px 10px 15px grey;
+    padding: 20px;
+    margin-bottom: 30px;
+    background-color: whitesmoke;
+    
+}
+#clear{
+    background-color: rgb(206, 25, 25);
+    color: white;
+    border: thin;
+}
+input{
+    padding: 10px 15px;
+    margin: 8px;
+    cursor: pointer;
+    border-radius: 10px;
+    border-style: double;
+    outline-style: none;
+    font-size: 18px;
+    border: thin;
+    
+    
+}
+.border{
+    background-color: rgba(107, 104, 104, 0.404);
+    padding: 10px 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+
+}
+h3{
+    padding-left: 50px;
+    color: goldenrod;
+}
+.operator{
+    background-color: rgb(71, 212, 71);
+
+}
